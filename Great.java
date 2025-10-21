@@ -9,14 +9,6 @@ public class Great
         System.out.println("a+b is: "+ c);
         boolean len=false;
         System.out.println(len);
-        if (len==false)
-    {
-            System.out.println("idk rabbe");
-    }
-        else
-    {
-            System.out.println("fak");
-    }
     }
     }
 
