@@ -30,6 +30,7 @@ grade=("FAIL");
 
     }
         System.out.println("The Student Named "+name + " Scored a "+ mark+" in the examination which has the grade of "+grade);
- 
+         System.out.println("The Student Named "+name + " Scored a "+ mark+" in the examination which has the grade of "+grade);
+
     }
 }
