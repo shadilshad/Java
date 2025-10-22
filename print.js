@@ -8,3 +8,7 @@ let z= x+y;
 document.getElementById("hello").innerHTML= cars + " and " + z ;
 
 console.log(`the value of given items like ${cars} cost a lot`);
+
+let age = 22;
+age ++;
+console.log(age);
