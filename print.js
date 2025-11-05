@@ -39,3 +39,20 @@ function multiply(value){
     return value*2;
 }
 document.getElementById("hello").innerHTML+= num1;
+
+
+
+let user = {
+    name: "shadil",
+    age: 22,
+};
+
+function hey() {
+    alert("hey, wassup");
+}
+
+user.message = hey;
+
+const button = document.getElementById("clickme");
+button.innerHTML += " Hey pal " + username;
+button.addEventListener("click", user.message);
