@@ -42,17 +42,13 @@ document.getElementById("hello").innerHTML+= num1;
 
 
 
-let user = {
-    name: "shadil",
-    age: 22,
-};
-
-function hey() {
-    alert("hey, wassup");
+let user={
+    name:"shadil",
+    age:21,
 }
-
-user.message = hey;
-
-const button = document.getElementById("clickme");
-button.innerHTML += " Hey pal " + username;
-button.addEventListener("click", user.message);
+function sayhi(){
+    alert("merry chrismtas yall");
+}
+const button = document.getElementById("yo");
+button.innerHTML += " Hey pal "+ username + " click here";
+button.addEventListener("click" , sayhi);
