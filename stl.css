@@ -1,0 +1,36 @@
+        body{
+            background-color:gray;
+            margin: 0%;
+            padding: 0%;
+        }
+        .id1{
+            color:blue;
+            padding: 20px;
+            margin-top: 20px;
+            background-color: #f4f4f4;
+            margin-bottom: 5px;
+            border: 1px solid black;
+            font-size: 20px;
+            font-family: "Roboto", sans-serif; 
+            font-optical-sizing: auto;
+            font: weight 200px;
+            font-style: normal;
+            font-variation-settings: "wdth" 100;
+}
+        .id2{
+            color:brown;
+            padding: 20px;
+            background-color: #f4f4f4;
+            margin-bottom: 5px;
+            border: 1px solid black;
+            font-size: 20px;
+            font-size: 20px;
+            font-family: "Roboto", sans-serif; 
+            font-optical-sizing: auto;
+            font: weight 200px;
+            font-style: normal;
+            font-variation-settings: "wdth" 100;
+        }
+
+
+        
