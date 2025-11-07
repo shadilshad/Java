@@ -1,4 +1,4 @@
-package intermediate.java;
+package intermediate;
 
 public class first {
     public static void main(String[] args) {
