@@ -60,3 +60,11 @@ console.log(search.next().value); // Bala
 console.log(search.next().value); // Chitra
 console.log(search.next().value); // Deepa (and stops)
 console.log(search.next());       // done: true
+
+
+//eval//
+
+let z=10;
+let y=20;
+let result1 = eval("z+y");
+console.log(result1);
