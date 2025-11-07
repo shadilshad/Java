@@ -1,0 +1,31 @@
+h1{
+    color:red;
+}
+/* rgb color*/
+h2{
+    color:rgb(255, 200, 199);
+}
+/* hex color*/
+
+h3{
+    color: #ff00ff;
+}
+.onn{
+background-image: url('Green Modern Travel Vlog Youtube Banner (4).png');
+    border: solid black 3px;
+    background-size: cover;
+background-position: center;
+padding: 10px;}
+
+.rand{
+background-image:url('Purple and Pink Minimalist Front-End Developer LinkedIn Banner.png');
+border: solid black 3px;
+background-size: cover;
+background-position: center;
+padding: 50px;
+
+}
+.moonn{
+background-color: aquamarine;
+border: solid black 3px;
+}
