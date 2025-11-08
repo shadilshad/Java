@@ -30,3 +30,48 @@ body{
 .clr{
     clear:both;
 }
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:coral;
+}
+a:active{
+    color:red;
+}
+a:visted{
+    color:green;
+}
+.btn{
+    background-color: navy;
+    padding:20px;
+    border-radius: 30px;
+    color:white;
+    font-size: larger;
+    border-color: bisque;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn:hover{
+color:red;
+}
+.btn:active{
+    color:yellow;
+}
+.btn:visted{
+    color:green;
+}
+.what{
+    padding:10px;
+    border-radius: 30px;
+    color:white;
+    font-size: larger;
+    border-color: bisque;
+    background-color: navy;
+margin-bottom: 20px;
+padding-bottom: 30px;
+margin-top: 90px;
+
+}
