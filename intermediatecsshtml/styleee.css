@@ -21,9 +21,12 @@ body{
 }
 #box-2{
     float:left;
-    width:70%;
+    width:68%;
 }
 #box-3{
     float:right;
     width:30%;
+}
+.clr{
+    clear:both;
 }
