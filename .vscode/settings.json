@@ -1,0 +1,7 @@
+{
+    "editor.experimental.preferTreeSitter.css": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+    "javascript.suggest.completeJSDocs": false,
+    "editor.inlineSuggest.suppressSuggestions": true
+}
