@@ -68,3 +68,4 @@ let z=10;
 let y=20;
 let result1 = eval("z+y");
 console.log(result1);
+
